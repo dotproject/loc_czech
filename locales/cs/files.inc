@@ -17,4 +17,5 @@
 "fileIdError"=>"Neplatný file handle byl pøedán funkci",
 "files list"=>"seznam souborù",
 "filesDelete"=>"Urèitì chcete smazat tento soubor?",
+"new file"=>"nový soubor",
 "select task"=>"vybrat úkol",
