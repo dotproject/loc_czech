@@ -7,6 +7,7 @@
 "Event deleted"=>"Událost vymazána",
 "Event inserted"=>"Událost vlo¾ena",
 "Event updated"=>"Událost aktualizována",
+"Monthly Calendar"=>"Mìsíèní kalendáø",
 "New Event"=>"Nová událost",
 "Recurs"=>"Opakování",
 "Remind Me"=>"Upozorni mì",

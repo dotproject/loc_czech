@@ -2,14 +2,14 @@
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
 "Add Department"=>"Pøidat oddìlení",
-"Department Company"=>"Oddìlení spoleènosti",
+"Department Company"=>"Pracovní skupina oddìlení",
 "Department Name"=>"Jméno oddìlení",
 "Department Parent"=>"Nadøízené oddìlení",
 "Department deleted"=>"Oddìlení vymazáno",
 "Department inserted"=>"Oddìlení ulo¾eno",
 "Department updated"=>"Oddìlení zaktualizováno",
 "Edit Department"=>"Editovat oddìlení",
-"badCompany"=>"Spoleènost není platná. Nemù¾ete pøidat oddìlení.",
+"badCompany"=>"Pracovní skupina není platná. Nemù¾ete pøidat oddìlení.",
 "delDept"=>"Urèitì chcete smazat toto oddìlení",
 "deptWithProject"=>"Nemù¾ete smazat oddìlení, které má pøiøazeny projekty",
 "deptWithSub"=>"Nemù¾ete vymazat oddìlení, které má podøízená oddìlení.",

@@ -3,7 +3,7 @@
 ##
 "About Modules"=>"O modulech",
 "Access Denied"=>"Pøístup odepøen",
-"Adding a Company"=>"Pøidávání spoleènosti",
+"Adding a Company"=>"Pøidávání pracovní skupiny",
 "Adding a Project"=>"Pøidávání projektu",
 "Adding a Task"=>"Pøidávání ùkolu",
 "Breadcrumbs"=>"Drobky",

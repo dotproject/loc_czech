@@ -3,7 +3,6 @@
 ##
 "Date"=>"Datum",
 "Edit File"=>"Editovat soubor",
-"File Management"=>"Správa souborù",
 "File Name"=>"Název souboru",
 "File deleted"=>"Soubor vymazán",
 "File inserted"=>"Soubor vlo¾en",
@@ -20,3 +19,4 @@
 "fileIdError"=>"Neplatný file handle byl pøedán funkci",
 "files list"=>"seznam souborù",
 "filesDelete"=>"Urèitì chcete smazat tento soubor?",
+"new file"=>"nový soubor",
