@@ -52,7 +52,7 @@
 "change color"=>"zmìnit barvu",
 "delete project"=>"smazat projekt",
 "edit this project"=>"editovat tento projekt",
-"new project"=>"nový projekt",
+"New Project"=>"nový projekt",
 "new task"=>"nový úkol",
 "noCompanies"=>"Nejdøíve prosím vytvoøte pracovní skupinu",
 "projects list"=>"seznam projektù",
