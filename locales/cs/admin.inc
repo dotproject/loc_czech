@@ -49,6 +49,7 @@
 "adminPasswordsDiffer"=>"Zadaná hesla se li¹í.",
 "adminValidPassword"=>"Prosím zadejte platné heslo\\n(del¹í ne¾ 4 znaky)",
 "adminValidUserName"=>"Prosím zadejte platné u¾ivatelská jméno.",
+"change password"=>"zmìnit heslo",
 "deny"=>"odepøít",
 "edit preferences"=>"editovat preference",
 "edit this user"=>"editovat tohoto u¾ivatele",
