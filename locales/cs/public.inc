@@ -1,6 +1,7 @@
 ##
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
+"Access Denied"=>"Pøístup odepøen",
 "Color Selector"=>"Volba barev",
 "Preset"=>"Pøedvolba",
 "accessDeniedMsg"=>"<p>Sna¾íte se pøistupovat k polo¾ce v systému, ke kterém nemáte dostateèná pøístupová práva. </p><p>Prosím kontaktujte  administrátora systému</p>",
