@@ -15,3 +15,4 @@
 "Tabbed Property Boxes"=>"Zálo¾kované oddíly s vlastnostmi",
 "Top Menu"=>"Horní menu",
 "helpIntro"=>"Zde jsou nìkteré odkazy, které nejsou pøímo dostupné z  kontextové nápovìdy.",
+"index"=>"obsah",
