@@ -2,6 +2,7 @@
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
 "Add File"=>"Pøidat soubor",
+"All Projects"=>"V¹echny projekty",
 "Date"=>"Datum",
 "Edit File"=>"Editovat soubor",
 "File Name"=>"Název souboru",
