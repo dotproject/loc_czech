@@ -2,7 +2,7 @@
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
 "Edit Event"=>"Editovat událost",
-"End Date"=>"Koneèné datum",
+"End Date"=>"Datum ukonèení",
 "Event Title"=>"Titul události",
 "Event deleted"=>"Událost vymazána",
 "Event inserted"=>"Událost vlo¾ena",
@@ -10,7 +10,7 @@
 "New Event"=>"Nová událost",
 "Recurs"=>"Opakování",
 "Remind Me"=>"Upozorni mì",
-"Start Date"=>"Poèáteèní datum",
+"Start Date"=>"Datum zahájení",
 "Time"=>"Cas",
 "View Event"=>"Zobraz událost",
 "Week"=>"Tıden",

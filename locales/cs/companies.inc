@@ -4,7 +4,7 @@
 "Add Company"=>"Pøidat spoleènost",
 "Budget"=>"Rozpoèet",
 "Company Name"=>"Jméno spoleènosti",
-"Company Owner"=>"Vlastník spoleènosti",
+"Company Owner"=>"Mana¾er spoleènosti",
 "Company deleted"=>"Spoleènost smazána",
 "Company inserted"=>"Spoleènost vlo¾ena",
 "Company updated"=>"Spoleènost aktualizována",

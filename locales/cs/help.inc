@@ -15,4 +15,4 @@
 "Tabbed Property Boxes"=>"Zálo¾kované oddíly s vlastnostmi",
 "Top Menu"=>"Horní menu",
 "accessDeniedMsg"=>"<p>Pokou¹íte se pøistupovat k polo¾ce v dotproject systému bez dostateèných pøístupových práv.</p><p>Prosím kontatujte správce systému dotproject.</p>",
-"helpIntro"=>"",
+"helpIntro"=>"Zde jsou nìkteré odkazy, které nejsou pøímo dostupné z  kontextové nápovìdy.",
