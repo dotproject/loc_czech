@@ -1,12 +1,10 @@
 ##
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
+"Add File"=>"Pøidat soubor",
 "Date"=>"Datum",
 "Edit File"=>"Editovat soubor",
 "File Name"=>"Název souboru",
-"File deleted"=>"Soubor vymazán",
-"File inserted"=>"Soubor vlo¾en",
-"File updated"=>"Soubor aktualizován",
 "New File"=>"Nový soubor",
 "Size"=>"Velikost",
 "Type"=>"Typ",
@@ -19,4 +17,4 @@
 "fileIdError"=>"Neplatný file handle byl pøedán funkci",
 "files list"=>"seznam souborù",
 "filesDelete"=>"Urèitì chcete smazat tento soubor?",
-"new file"=>"nový soubor",
+"select task"=>"vybrat úkol",
