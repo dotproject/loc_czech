@@ -1,12 +1,16 @@
 <!-- $Id: contacts.index.hlp,v 1.2 2003/03/16 06:07:14 kobudo Exp $ -->
-<h2>Contacts Index</h2>
+<h2>Kontakty - obsah</h2>
 
-<p>The <strong>Contacts</strong> screen works very much like an address book. You can look up information about existing contacts 
-by clicking on any of the hyperlinked contact names.</p>
+<p>Stránka <strong>Kontakty</strong> funguje velmi podobnì jako adresáø. Mù¾ete vyhledávat ulo¾ené kontakty tím, ¾e kliknete
+pøímo na jméno zobrazené v seznamu.</p>
 
-<p>You can see all of the available contact listings by choosing the <strong>show all</strong> option. Alternatively, you 
-can restrict the number of visible contacts to those lastnames starting with specific letters of the alphabet. [Note: you are
-only able to restrict to specific alphabet letters if there are entries that exist for those letters].</p>
+<p>V¹echny dostupné kontakty mù¾ete zobrazit tak, ¾e kliknete na odkaz <strong>Uka¾: v¹e</strong>. Mù¾ete také omezit poèet
+zobrazených kontaktù na ta pøíjmení, která zaèínají konkrétním písmenem abecedy. (Pozn.
+
+You can see all of the
+available contact listings by choosing the <strong>show all</strong> option. Alternatively, you can restrict the number of
+visible contacts to those lastnames starting with specific letters of the alphabet. [Note: you are only able to restrict to
+specific alphabet letters if there are entries that exist for those letters].</p>
 
 <p>Under the contacts module you can store and retreive information such as:</p>
 <ul>
