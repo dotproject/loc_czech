@@ -5,6 +5,7 @@
 "Edit Event"=>"Editovat událost",
 "End Date"=>"Datum ukonèení",
 "Event Title"=>"Titul události",
+"Events"=>"Události",
 "Monthly Calendar"=>"Mìsíèní kalendáø",
 "New Event"=>"Nová událost",
 "Recurs"=>"Opakování",
