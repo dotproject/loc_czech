@@ -11,6 +11,8 @@
 "Edit Department"=>"Editovat oddìlení",
 "badCompany"=>"Pracovní skupina není platná. Nemù¾ete pøidat oddìlení.",
 "delDept"=>"Urèitì chcete smazat toto oddìlení",
+"deptIndexPage"=>"Prosím k oddìlením pøistupujte pøes spoleènost.",
+"deptValidName"=>"Prosím zadejte platné jméno oddìlení.",
 "deptWithProject"=>"Nemù¾ete smazat oddìlení, které má pøiøazeny projekty",
 "deptWithSub"=>"Nemù¾ete vymazat oddìlení, které má podøízená oddìlení.",
 "edit this department"=>"editovat toto oddìlení",

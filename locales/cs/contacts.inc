@@ -2,9 +2,6 @@
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
 "Contact Notes"=>"Poznámky",
-"Contact deleted"=>"Kontakt vymazán",
-"Contact inserted"=>"Kontakt vlo¾en",
-"Contact updated"=>"Kontakt aktlualizován",
 "Display Name"=>"Jméno ke zobrazení",
 "Edit Contact"=>"Editovat kontakt",
 "contacts list"=>"seznam kontaktù",
