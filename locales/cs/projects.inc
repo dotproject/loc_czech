@@ -18,7 +18,7 @@
 "Finished"=>"Ukonèen",
 "Forum Name"=>"Název fóra",
 "From"=>"Od",
-"Gantt Chart"=>"Ganttùv graf",
+"Gantt Chart"=>"Graf projektu",
 "In Planning"=>"Plánovaný",
 "In Progress"=>"V prùbìhu realizace",
 "Last Post"=>"Poslední zpráva",

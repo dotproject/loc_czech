@@ -1,12 +1,10 @@
 ##
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
+"Day View"=>"Denní pohled",
 "Edit Event"=>"Editovat událost",
 "End Date"=>"Datum ukonèení",
 "Event Title"=>"Titul události",
-"Event deleted"=>"Událost vymazána",
-"Event inserted"=>"Událost vlo¾ena",
-"Event updated"=>"Událost aktualizována",
 "Monthly Calendar"=>"Mìsíèní kalendáø",
 "New Event"=>"Nová událost",
 "Recurs"=>"Opakování",
@@ -15,11 +13,13 @@
 "Time"=>"Cas",
 "View Event"=>"Zobraz událost",
 "Week"=>"Týden",
+"Week View"=>"Týdenní pohled",
 "delete event"=>"smazat událost",
 "deleteEvent"=>"Urèitì chcete tuto událost smazat",
 "edit this event"=>"editovat tuto událost",
 "in advance"=>"pøedem",
 "month view"=>"mìsíèní pohled",
+"new event"=>"nová událost",
 "times"=>"krát",
 "today"=>"dnes",
 "view this event"=>"zobrazit tuto událost",
